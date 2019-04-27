@@ -1,0 +1,2 @@
+# UpCase
+NPM capitalization package
