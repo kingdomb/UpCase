@@ -1,6 +1,6 @@
 {
   "name": "kinguppercase",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM capitalization package",
   "main": "index.js",
   "scripts": {

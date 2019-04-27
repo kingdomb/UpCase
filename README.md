@@ -7,7 +7,10 @@ npm install kinguppercase
 
 To run, 
 ```
+
 const name = require('kinguppercase')
+
+console.log(name('hello!'));
 ```
 and run your function!
 
