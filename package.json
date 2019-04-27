@@ -1,0 +1,20 @@
+{
+  "name": "kinguppercase",
+  "version": "1.0.0",
+  "description": "NPM capitalization package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingdomB/UpCase.git"
+  },
+  "keywords": [],
+  "author": "King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingdomB/UpCase/issues"
+  },
+  "homepage": "https://github.com/KingdomB/UpCase#readme"
+}
